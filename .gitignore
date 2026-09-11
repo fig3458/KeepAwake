@@ -1,0 +1,15 @@
+# Build outputs
+bin/
+dist/
+*.exe
+*.pdb
+*.user
+*.suo
+
+# IDE / OS
+.vs/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
+.codegraph/
