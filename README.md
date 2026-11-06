@@ -1,4 +1,4 @@
-# KeepAwake
+﻿# KeepAwake
 
 Windows 一键关闭「息屏/睡眠后需要重新登录」的小工具。
 
@@ -17,7 +17,7 @@ Windows 一键关闭「息屏/睡眠后需要重新登录」的小工具。
 
 ## 下载与使用
 
-1. 下载本仓库，或到 [Releases](../../releases) 下载已编译的 `KeepAwake.exe`
+1. 下载本仓库，或到 [Releases](https://github.com/fig3458/KeepAwake/releases) 下载已编译的 `KeepAwake.exe`
 2. 双击运行，UAC 选择「是」
 3. 保持默认勾选，点击「一键应用（持久生效）」
 4. 可以关掉软件，设置继续有效
@@ -53,3 +53,7 @@ build.bat
 ## License
 
 MIT
+
+## 许可证
+
+[MIT](LICENSE)
